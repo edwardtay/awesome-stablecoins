@@ -1,8 +1,8 @@
 # awesome-stablecoins11
 
-| Peg  | Name | Issuer | Documentation | Crypto-backed | Fiat-backed | Non-backed |
-| ---- | ---- | ------ | ---------- | ------------- | ----------- | ------------ |
-| USD  | [**BUSD**](https://www.paxos.com/busd/)  | Paxos | [📄](https://account.paxos.com/whitepaper.pdf)  | | ⚪️ |  |
+| Peg  | Name | Issuer | Source Code | Collateral |
+| ---- | ---- | ------ | ---------- | ----------- | 
+| USD  | [Binance USD (**BUSD**)](https://www.paxos.com/busd/) | Paxos | [📄](https://account.paxos.com/whitepaper.pdf)  | | ⚪️ |  |
 | USD  | [**DAI**](https://makerdao.com/en/)  | Maker |  [📄](https://makerdao.com/en/whitepaper#the-dai-stablecoin) | ⚪️ |  |  |
 | USD  | [**DOC**](https://moneyonchain.com/doc-bitcoin-stablecoin/)  | Rsk |  [📄](https://moneyonchain.com/whitepaper-defi-for-bitcoin/) | ⚪️ |  |  |
 | USD  | [**DUSD**](https://tether.to/)  | Tether Limited |  [📄](https://docs.dusd.finance/#what-is-defidollar-dusd) |  | ⚪️ |  |
