@@ -10,7 +10,7 @@
 
 ## Stablecoins List
 
-| Peg  | Name | Documentation | Collateral Type |
+| Peg  | Name | Source Code & Documentation | Collateral Type |
 | ---- | ---- | ------------- | --------------- | 
 | USD  | [Based Money (**BASED**)](https://based.money/) | [</>](https://github.com/cryptoghoulz) | [Algorithmic](https://based.money/#mydiv:~:text=rebase%20function) |
 | USD  | [Binance USD (**BUSD**)](https://www.binance.com/en/busd) | [📄](https://www.paxos.com/attestation)  | [Fiat](https://www.binance.com/en/busd#busd-contents-how-to-get-cButton:~:text=Highly%20regulated%201%3A1%20USD%2Dbacked%20crypto%20stablecoin) |
@@ -56,7 +56,14 @@
 - [The Block](https://www.theblockcrypto.com/data/decentralized-finance/stablecoins)
 - [Wikipedia](https://en.wikipedia.org/wiki/Stablecoin)
 
+### Contribute
+To add something to this list, just submit a pull request!
 
+### License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
 
 
 
