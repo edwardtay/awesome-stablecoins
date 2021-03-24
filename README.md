@@ -1,5 +1,13 @@
 # Awesome Stablecoins ⚖️
 
+## What are Stablecoins?
+
+"cryptocurrencies designed to minimize the volatility of the price of the stablecoin, relative to some "stable" asset or basket of assets" — [Wikipedia](https://en.wikipedia.org/wiki/Stablecoin#mw-content-text:~:text=are%20cryptocurrencies%20designed%20to%20minimize%20the,%22stable%22%20asset%20or%20basket%20of%20assets)
+
+"digital assets that aim to manage volatility by tracking the values of more stable assets" — [FINRA](https://www.finra.org/investors/insights/3-things-stablecoins#block-finra-bootstrap-sass-system-main:~:text=digital%20assets%20that%20aim%20to%20manage%20volatility%20by%20tracking%20the%20values%20of%20more%20stable%20assets)
+
+"have many of the features of cryptoassets but seek to stabilise the price of the “coin” by linking its value to that of a pool of assets" — [Bank For International Settlements](https://www.bis.org/cpmi/publ/d187.pdf)
+
 ## Stablecoins List
 
 | Peg  | Name | Documentation | Collateral Type |
