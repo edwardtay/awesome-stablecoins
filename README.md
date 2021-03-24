@@ -1,6 +1,8 @@
-# awesome-stablecoins11
+# Awesome Stablecoins
 
-| Peg  | Name | Issuer | Source Code | Collateral |
+## Stablecoins List
+
+| Peg  | Name | Issuer | Source Code | Collateral Type |
 | ---- | ---- | ------ | ---------- | ----------- | 
 | USD  | [Binance USD (**BUSD**)](https://www.paxos.com/busd/) | Paxos | [📄](https://account.paxos.com/whitepaper.pdf)  | 
 | USD  | [Dai (**DAI**)](https://makerdao.com/en/)  | Maker |  [</>](https://github.com/makerdao/) | |  
@@ -19,6 +21,26 @@
 
 
 | USD  | [**TUSD**](https://www.trusttoken.com/trueusd/)  | TrustToken |  [📄](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) |  | ⚪️ |  |
+
+
+## Useful Links
+
+- [Awesome Stablecoins](https://github.com/sdtsui/awesome-stablecoins)
+- [Coindesk](https://www.coindesk.com/tag/stable-act)
+- [Coingecko](https://www.coingecko.com/en/categories/stablecoins)
+- [Coinmarketcap](https://coinmarketcap.com/view/stablecoin/)
+- [DeFi Pulse](https://defipulse.com/usd)
+- [Defiprime](https://defiprime.com/stablecoins)
+- [Dune Analytics](https://duneanalytics.com/hagaetc/stablecoins)
+- [Ethereum.org](https://ethereum.org/en/stablecoins/)
+- [Fighting to be STABLE: the Evolution of Stablecoins](https://medium.com/dragonfly-research/fighting-to-be-stable-the-evolution-of-stablecoins-aca81fb432f9)
+- [Investigating the impact of global stablecoins](https://www.bis.org/cpmi/publ/d187.pdf)
+- [STABLE act](https://tlaib.house.gov/sites/tlaib.house.gov/files/STABLEAct.pdf)
+- [Stablecoins: risks, potential and regulation](https://www.bis.org/publ/work905.pdf) 
+- [The Block](https://www.theblockcrypto.com/data/decentralized-finance/stablecoins)
+- [Wikipedia](https://en.wikipedia.org/wiki/Stablecoin)
+
+
 
 
 
