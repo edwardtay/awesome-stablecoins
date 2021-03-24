@@ -6,16 +6,18 @@
 | ---- | ---- | ------ | ---------- | ----------- | 
 | USD  | [Binance USD (**BUSD**)](https://www.binance.com/en/busd) | Paxos | [📄](https://www.paxos.com/attestation)  | [Fiat](https://www.binance.com/en/busd#busd-contents-how-to-get-cButton:~:text=Highly%20regulated%201%3A1%20USD%2Dbacked%20crypto%20stablecoin) |
 | USD  | [Dai (**DAI**)](https://makerdao.com/en/)  | Maker |  [📓](https://github.com/makerdao/) | [Crypto](https://blog.makerdao.com/busting-makerdao-myths-seven-misconceptions-about-dai/#menu-primary-menu-english-1:~:text=backed%20by%20a%20diversified%20portfolio%20of%20crypto%20collateral%20assets) |  
-| USD  | [Neutrino USD (**USDN**)](https://neutrino.at/)  | Neutrino Protocol |  [</>](https://github.com/waves-exchange/neutrino-contract) | 
+| USD  | [Gemini Dollar (**GUSD**)](https://www.gemini.com/dollar)  | Gemini |  [📄](https://gemini.com/static/dollar/gemini-dollar-whitepaper.pdf) | [Fiat](https://www.gemini.com/dollar#query:~:text=1%3A1%20USD%2Dbacked%20stablecoin,-built) |
+| USD  | [Neutrino USD (**USDN**)](https://neutrino.at/)  | Neutrino Protocol |  [</>](https://github.com/waves-exchange/neutrino-contract) | [Algorithmic](https://neutrino.at/#rec245891972:~:text=algorithmic%20stablecoin%20pegged%20to%20the%20US,the%20Waves%20protocol%E2%80%99s%20underlying%20consensus%20algorithm) |
+| USD  | [Reserve (**RSV**)](https://reserve.org/)  | Reserve |  [📄](https://github.com/reserve-protocol) |  [Asset](https://reserve.org/#w-node-_8712b5f5-fb9d-e2c8-4038-e518bef2f7bc-67adb76f:~:text=asset%20backed) |
 | USD  | [Tether (**USDT**)](https://tether.to/)  | Tether Limited |  [📄](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [Assets, Fiat](https://tether.to/#box-icon-22:~:text=Every%20Tether%20token%20is%20always%20100%25,may%20include%20affiliated%20entities%20(collectively%2C%20%E2%80%9Creserves%E2%80%9D).) |
 | USD  | [TerraUSD (**UST**)](https://terra.money/)  | Terra |  [</>](https://github.com/terra-project) |  | 
 | USD  | [TrueUSD (**TUSD**)](https://www.trusttoken.com/trueusd/)  | TrustToken |  [</>](https://github.com/trusttoken)
 ) |  
-| Non  | [Reserve Rights (**RSR**)](https://reserve.org/)  | Stable Universal |  [📄](https://github.com/reserve-protocol) |  
+| Non  | [Reserve Rights (**RSR**)](https://reserve.org/)  | Reserve |  [📄](https://github.com/reserve-protocol) |  [Algorithmic](https://reserve.org/#w-node-_8712b5f5-fb9d-e2c8-4038-e518bef2f7bc-67adb76f:~:text=fluctuating%20protocol%20token) |
 | USD  | [**DOC**](https://moneyonchain.com/doc-bitcoin-stablecoin/)  | Rsk |  [📄](https://moneyonchain.com/whitepaper-defi-for-bitcoin/) | ⚪️ |  |  |
 | USD  | [**DUSD**](https://tether.to/)  | Tether Limited |  [📄](https://docs.dusd.finance/#what-is-defidollar-dusd) |  | ⚪️ |  |
 | USD  | [**FEI**](https://fei.money/)  | Fei Protocol |  [📄](https://s3-us-west-1.amazonaws.com/assets.fei.money/docs/whitepaper.pdf) |  |  | ⚪️ |
-| USD  | [**GUSD**](https://www.gemini.com/dollar)  | Gemini Trust Company LLC |  [📄](https://gemini.com/static/dollar/gemini-dollar-whitepaper.pdf) |  | ⚪️ |  |
+
 | USD  | [**PAX**](https://www.paxos.com/standard/)  | Paxos   | [📄](https://account.paxos.com/whitepaper.pdf) |  | ⚪️ |  |
 | USD  | [**USDC**](https://www.centre.io/usdc)  | Center |  [📄](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf) |  | ⚪️ |  |
 
