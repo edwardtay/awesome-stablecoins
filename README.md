@@ -1,11 +1,11 @@
-# Awesome Stablecoins
+# Awesome Stablecoins ⚖️
 
 ## Stablecoins List
 
-| Peg  | Name | Issuer | Source Code | Collateral Type |
+| Peg  | Name | Issuer | Documentation | Collateral Type |
 | ---- | ---- | ------ | ---------- | ----------- | 
-| USD  | [Binance USD (**BUSD**)](https://www.paxos.com/busd/) | Paxos | [📄](https://account.paxos.com/whitepaper.pdf)  | 
-| USD  | [Dai (**DAI**)](https://makerdao.com/en/)  | Maker |  [</>](https://github.com/makerdao/) | |  
+| USD  | [Binance USD (**BUSD**)](https://www.binance.com/en/busd) | Paxos | [📄](https://www.paxos.com/attestation)  | [Fiat](https://www.binance.com/en/busd#busd-contents-how-to-get-cButton:~:text=Highly%20regulated%201%3A1%20USD%2Dbacked%20crypto%20stablecoin) |
+| USD  | [Dai (**DAI**)](https://makerdao.com/en/)  | Maker |  [📓](https://github.com/makerdao/) | [Crypto](https://blog.makerdao.com/busting-makerdao-myths-seven-misconceptions-about-dai/#menu-primary-menu-english-1:~:text=backed%20by%20a%20diversified%20portfolio%20of%20crypto%20collateral%20assets) |  
 | USD  | [Neutrino USD (**USDN**)](https://neutrino.at/)  | Neutrino Protocol |  [</>](https://github.com/waves-exchange/neutrino-contract) | 
 | USD  | [TerraUSD (**UST**)](https://terra.money/)  | Terra |  [</>](https://github.com/terra-project) |  | 
 | Non  | [Reserve Rights (**RSR**)](https://reserve.org/)  | Stable Universal |  [📄](https://github.com/reserve-protocol) |  
@@ -17,9 +17,6 @@
 | USD  | [**USDC**](https://www.centre.io/usdc)  | Center |  [📄](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf) |  | ⚪️ |  |
 | USD  | [**USDT**](https://tether.to/)  | Tether Limited |  [📄](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) |  | ⚪️ |  |
 | USD  | [**TUSD**](https://www.trusttoken.com/trueusd/)  | TrustToken |  [📄](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) |  | ⚪️ |  |
-
-
-
 | USD  | [**TUSD**](https://www.trusttoken.com/trueusd/)  | TrustToken |  [📄](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) |  | ⚪️ |  |
 
 
