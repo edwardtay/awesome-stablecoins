@@ -10,14 +10,15 @@
 
 ## Stablecoins List
 
-| Peg  | Name | Source Code & Documentation | Collateral Type |
+| Peg  | Name | Source Code / Docs | Collateral Type |
 | ---- | ---- | ------------- | --------------- | 
 | USD  | [Based Money (**BASED**)](https://based.money/) | [</>](https://github.com/cryptoghoulz) | [Algorithmic](https://based.money/#mydiv:~:text=rebase%20function) |
 | USD  | [Binance USD (**BUSD**)](https://www.binance.com/en/busd) | [📄](https://www.paxos.com/attestation)  | [Fiat](https://www.binance.com/en/busd#busd-contents-how-to-get-cButton:~:text=Highly%20regulated%201%3A1%20USD%2Dbacked%20crypto%20stablecoin) |
 | USD  | [Celo Dollar (**CUSD**)](https://celo.org/) | [📄](https://celo.org/papers/whitepaper)  |  |
-| USD  | [Dai (**DAI**)](https://makerdao.com/en/)  | [📓](https://github.com/makerdao/) | [Crypto](https://blog.makerdao.com/busting-makerdao-myths-seven-misconceptions-about-dai/#menu-primary-menu-english-1:~:text=backed%20by%20a%20diversified%20portfolio%20of%20crypto%20collateral%20assets) |  
+| USD  | [Dai (**DAI**)](https://makerdao.com/en/)  | [</>](https://github.com/makerdao/) | [Crypto](https://blog.makerdao.com/busting-makerdao-myths-seven-misconceptions-about-dai/#menu-primary-menu-english-1:~:text=backed%20by%20a%20diversified%20portfolio%20of%20crypto%20collateral%20assets) |  
 | USD  | [Dynamic Set Dollar (**DUSD**)](https://dsd.finance/)  | [</>](https://github.com/dynamicsetdollar/dsd-protocol) [📄](https://docs.dusd.finance/#what-is-defidollar-dusd) | [Algorithmic](https://dsd.finance/#hero:~:text=without%20any%20collateral%20backing)  |
 | USD  | [EOSDT (**EOSDT**)](https://eosdt.com/)  | [</>](https://github.com/equilibrium-eosdt) [📄](https://eosdt.com/specification) | [Crypto](https://eosdt.com/en#root:~:text=EOS%20and%20BTC%20collateral) |
+| USD  | [Fei (**FEI**)](https://fei.money/)  | [📄](https://s3-us-west-1.amazonaws.com/assets.fei.money/docs/whitepaper.pdf) | [Alrorithmic](https://fei.money/#root:~:text=direct%20incentives) |
 | USD  | [Frax (**FRAX**)](https://frax.finance/#welcome)  | [</>](https://github.com/fraxfinance) [📄](https://frax.finance/whitepaper/) | [Algorithmic, Crypto](https://frax.finance/#:~:text=fractional%2Dalgorithmic) |
 | USD  | [Gemini Dollar (**GUSD**)](https://www.gemini.com/dollar)  | [📄](https://gemini.com/static/dollar/gemini-dollar-whitepaper.pdf) | [Fiat](https://www.gemini.com/dollar#query:~:text=1%3A1%20USD%2Dbacked%20stablecoin,-built) |
 | USD  | [HUSD (**HUSD**)](http://www.stcoins.com/)  | [</>](https://github.com/stcoins/HUSD) | [Fiat](https://www.stcoins.com/#lottie:~:text=backed%20by%20U.S.%20dollars%20in%20a%201%3A1%20ratio) |
@@ -28,15 +29,11 @@
 | USD  | [Stably USD (**USDS**)](https://www.stably.io/)  | [📄](https://www.stably.io/static/whitepaper.pdf) |  [Fiat](https://www.stably.io/stablecoins/#player_1:~:text=fully%20backed%201%2Dto%2D1%20and%20redeemable%20for%20USD%20held) |
 | USD  | [sUSD (**SUSD**)](https://www.synthetix.io/)  | [</>](https://github.com/synthetixio) |  [Crypto](https://docs.synthetix.io/litepaper#abstract:~:text=collateralized%20by%20the%20Synthetix%20Network%20Token%20(SNX)) |
 | USD  | [Tether (**USDT**)](https://tether.to/)  | [📄](https://tether.to/wp-content/uploads/2016/06/TetherWhitePaper.pdf) | [Asset, Fiat](https://tether.to/#box-icon-22:~:text=Every%20Tether%20token%20is%20always%20100%25,may%20include%20affiliated%20entities%20(collectively%2C%20%E2%80%9Creserves%E2%80%9D).) |
-| USD  | [TerraUSD (**UST**)](https://terra.money/)  |  [</>](https://github.com/terra-project) |  | 
+| USD  | [TerraUSD (**UST**)](https://terra.money/)  |  [</>](https://github.com/terra-project) | [Algorithmic](https://docs.terra.money/stablecoin.html#price-stabilization:~:text=Terra%20achieves%20price%2Dstability%20by%20algorithmically%20adjusting,supply%20according%20to%20fluctuations%20in%20demand.) | 
 | USD  | [TrueUSD (**TUSD**)](https://www.trusttoken.com/trueusd/)  | [</>](https://github.com/trusttoken) |  |
 | USD  | [USD Coin (**USDC**)](https://www.centre.io/usdc)  | [</>](https://github.com/centrehq/centre-tokens) [📄](https://f.hubspotusercontent30.net/hubfs/9304636/PDF/centre-whitepaper.pdf) | [Fiat](https://www.centre.io/usdc#hs_cos_wrapper_widget_41325891566:~:text=fiat%2Dbacked) |
 | USD  | [USDK (**USDK**)](https://www.oklink.com/usdk)  | [</>](https://github.com/oklink) | [Fiat](https://www.oklink.com/usdk#bannerContent:~:text=Every%20USDK%20is%20backed%20by%201%20USD) |
 | USD  | [Vai (**VAI**)](https://venus.io/)  | [</>](https://github.com/SwipeWallet/Venus-Protocol) | [Crypto](https://venus.io/#mint:~:text=backed%20by%20a%20basket%20of%20stablecoins%20and%20crypto%20assets) |
-| Non  | [Reserve Rights (**RSR**)](https://reserve.org/)  | [📄](https://github.com/reserve-protocol) |  [Algorithmic](https://reserve.org/#w-node-_8712b5f5-fb9d-e2c8-4038-e518bef2f7bc-67adb76f:~:text=fluctuating%20protocol%20token) |
-| USD  | [**FEI**](https://fei.money/)  | [📄](https://s3-us-west-1.amazonaws.com/assets.fei.money/docs/whitepaper.pdf) |  |  | ⚪️ |
-
-
 
 
 ## Useful Links
