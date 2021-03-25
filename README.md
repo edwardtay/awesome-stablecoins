@@ -9,6 +9,8 @@
 "have many of the features of cryptoassets but seek to stabilise the price of the “coin” by linking its value to that of a pool of assets" — [Bank For International Settlements](https://www.bis.org/cpmi/publ/d187.pdf)
 
 ## Stablecoins List
+Technically, stablecoins can be pegged to anything, e.g. other currencies, BTC, even indexes. Practically, stablecoins are useful for their unit of account. Until [hyperbitcoinization](https://bitcoinmagazine.com/hyperbitcoinization) happens or other fiat currency replaces USD as the world's reserve currency, this list only includes those that are USD-pegged:
+
 
 | Peg  | Name | Source Code / Docs | Collateral Type |
 | ---- | ---- | ------------- | --------------- | 
