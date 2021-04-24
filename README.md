@@ -1,4 +1,4 @@
-# Awesome Stablecoins ⚖️
+# Awesome Stablecoins ⚖️🪙
 
 ## What are Stablecoins?
 
